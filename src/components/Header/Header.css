@@ -1,11 +1,13 @@
 header{
-    /* color: #e6e6ff; */
-    color: #000099;
+    color: #e6e6ff;
+    /* color: #000099; */
+    color: rgb(110, 146, 255);
     font-size: 40px;
     font-weight: 700;
     text-align: center;
     padding: 45px 10px;
-    border-bottom: 1px dotted #000099;
+    /* border-bottom: 1px dotted #000099; */
+    border-bottom: 1px dashed rgb(110, 146, 255);
     letter-spacing: 2px;
     font-family: monospace;
 }
